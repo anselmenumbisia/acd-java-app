@@ -1,1 +1,3 @@
-# acd-java-app
+# maven-project
+
+Simple Maven Project
